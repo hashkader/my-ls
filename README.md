@@ -20,7 +20,6 @@ To use "My Ls", follow the usage format below:
 ./my_ls [-a] [-t] [directory1] [directory2] ...
 
 ### The Core Team
-This project was a solo project done by me
+This project was a solo project done by Hashim Kader
 
-<span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
-<span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px' /></span>
+
